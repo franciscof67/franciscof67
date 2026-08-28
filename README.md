@@ -37,6 +37,8 @@ Visita il mio portfolio e i miei progetti:
 ### 📝 Content & Copywriting
 ![Copywriting](https://img.shields.io/badge/Copywriting-000000?style=for-the-badge&logo=readme&logoColor=white)
 ![UX Writing](https://img.shields.io/badge/UX%20Writing-4B8BBE?style=for-the-badge&logo=markdown&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
+
 
 ### 📊 Strumenti Digitali
 ![Google Business Profile](https://img.shields.io/badge/Google%20Business-4285F4?style=for-the-badge&logo=google&logoColor=white)
