@@ -40,8 +40,7 @@ Visita il mio portfolio e i miei progetti:
 
 ### 📊 Strumenti Digitali
 ![Google Business Profile](https://img.shields.io/badge/Google%20Business-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ### ⚙️ Altre Competenze
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6A5ACD?style=for-the-badge)
