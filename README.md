@@ -14,7 +14,7 @@ Sono Francisco e lavoro in Italia.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Ciao, sono Francisco i lavoro in Italia,
+# 👋 Ciao, sono Francisco e lavoro in Italia,
 
 Mi occupo di **creazione siti web**, **gestione Google Business Profile** e **contenuti professionali** per aziende e liberi professionisti.
 
